@@ -1,0 +1,13 @@
+#recherche div img{
+    height: 400px;
+    width: 250px; 
+}
+
+#recherche div {
+    display: flex;
+    flex-direction: column;
+}
+
+#recherche div p {
+    margin-left: 5em;
+}
